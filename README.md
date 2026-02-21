@@ -67,7 +67,7 @@ Unlike complex code environments, Codex:
 ✔ Does not require NPM or local development setup  
 ✔ Shows output immediately  
 ✔ Encourages hands-on experimentation  
-✔ Helps you understand fundamental workflows before moving to frameworks :contentReference[oaicite:1]{index=1}
+✔ Helps you understand fundamental workflows before moving to frameworks 
 
 ---
 
